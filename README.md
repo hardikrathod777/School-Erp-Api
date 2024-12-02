@@ -3,7 +3,14 @@
 
 ## Overview
 
-The SchoolERP API is a backend application designed to manage school-related operations efficiently. It supports user authentication, role-based access control, and various functionalities tailored for different user roles, including Master, Principal, and Teacher. The API is built using Node.js and MongoDB for seamless data handling and management.
+The SchoolERP API is a robust backend application tailored to streamline school management operations. Designed with efficiency in mind, it supports:
+
+ 1. User Authentication: Secure login and session management.
+ 2. Role-Based Access Control (RBAC): Differentiated access levels for roles such as Master Admin, Principal, and Teacher.
+ 3. Custom Functionalities: Features adapted to specific user roles, ensuring smooth and effective operations.
+  
+The API is developed using Node.js for scalable and high-performance backend logic and MongoDB for reliable and seamless data management.
+
 
 ## Project Stack
 - **Backend**: Node.js
@@ -42,7 +49,7 @@ Store user data in MongoDB using Mongoose for schema management.
 1. Clone the repository:
    
 ```bash
-git clone https://github.com/rakholiyaragini/SchoolERP-API.git
+git clone https://github.com/hardikrathod777/School-Erp-Api.git
 ```
 
 
